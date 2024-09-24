@@ -1,0 +1,236 @@
+(footprint "CUI_TBP04R2-500-02BE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.275 -5.785 0)
+		(layer "F.SilkS")
+		(uuid "9e7a59b5-0be9-4de6-a17f-51c681944264")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CUI_TBP04R2-500-02BE"
+		(at 9.25 6.485 0)
+		(layer "F.Fab")
+		(uuid "a8621eed-51a6-426b-81e7-0888d8224b2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24bf9d90-db5c-43c6-9d6f-3eb54c071bd6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77b03bc0-a086-4172-814d-de986f936415")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "227999d4-097d-4bb3-bb16-4d8a04296464")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.2 -3.9)
+		(end 8.2 -3.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e03717d-5304-42ab-b55d-df9fe33f36f6")
+	)
+	(fp_line
+		(start -3.2 4.6)
+		(end -3.2 -3.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc9533d2-77c7-4194-89c8-853393340a87")
+	)
+	(fp_line
+		(start 8.2 -3.9)
+		(end 8.2 4.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a30b1c12-32f1-4c8a-a9b9-e1ad864b9577")
+	)
+	(fp_line
+		(start 8.2 4.6)
+		(end -3.2 4.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab87f488-eccf-491e-8916-f979103f4af3")
+	)
+	(fp_circle
+		(center -3.95 0)
+		(end -3.85 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "901956a0-b62e-41b1-b518-06f53439b5de")
+	)
+	(fp_line
+		(start -3.45 -4.15)
+		(end -3.45 4.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "17957fed-1b72-408b-b38f-2c22eb0f7417")
+	)
+	(fp_line
+		(start -3.45 4.85)
+		(end 8.45 4.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eedb0210-f793-4670-be51-ab83bd0d8bf8")
+	)
+	(fp_line
+		(start 8.45 -4.15)
+		(end -3.45 -4.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b44bb3b9-f2e9-4dd5-b030-b8e1aa5dcaad")
+	)
+	(fp_line
+		(start 8.45 4.85)
+		(end 8.45 -4.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ee7f0771-af7b-41e9-b272-cf15e3cbdb49")
+	)
+	(fp_line
+		(start -3.2 -3.9)
+		(end 8.2 -3.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26059277-e7a0-4b59-86ff-116fe01d3bcf")
+	)
+	(fp_line
+		(start -3.2 4.6)
+		(end -3.2 -3.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4ea3079f-3711-4f28-a9b0-d20289e6be69")
+	)
+	(fp_line
+		(start 8.2 -3.9)
+		(end 8.2 4.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f36ffbc0-5a23-4a8d-b7da-008459401c84")
+	)
+	(fp_line
+		(start 8.2 4.6)
+		(end -3.2 4.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f90d54a4-3d2a-49e8-b3db-c0a5f7046d8d")
+	)
+	(fp_circle
+		(center -3.95 0)
+		(end -3.85 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "23fccbc4-439a-481a-a116-5f851eb361bc")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.55 2.55)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7f8c86bc-9044-4639-ba82-74b02607c61e")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 2.55 2.55)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5729c6a0-266a-4b8b-b5ca-e5b9c8425fda")
+	)
+	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP04R2-500-02BE.step"
+		(offset
+			(xyz 7.5 -0.65 -3.9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)
