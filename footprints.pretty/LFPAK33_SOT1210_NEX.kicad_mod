@@ -533,7 +533,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "681e5cc2-97c8-4cab-ad62-96d12a3f1457")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/PSMN075-100MSEX.STEP"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/PSMN075-100MSEX.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

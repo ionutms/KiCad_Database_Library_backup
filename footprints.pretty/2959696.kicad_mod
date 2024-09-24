@@ -90,7 +90,7 @@
 			)
 		)
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/2959696__UM108_SEFE_L.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/2959696__UM108_SEFE_L.step"
 		(offset
 			(xyz -3 0 -19.5)
 		)

@@ -101,7 +101,7 @@
 			)
 		)
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/2907525__UM108_Profil.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/2907525__UM108_Profil.step"
 		(offset
 			(xyz 53 0 -19.5)
 		)

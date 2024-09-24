@@ -231,7 +231,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "3fccb5f0-fb23-4f06-8bbf-d406130f4e70")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP02R2-381-03BE.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/CUI_DEVICES_TBP02R2-381-03BE.step"
 		(offset
 			(xyz 19.05 -6.5 18.3)
 		)

@@ -483,7 +483,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "502bf9f0-b69e-44e6-a31e-e1f6f9b0c80c")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/PG-BGA-24-801.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/PG-BGA-24-801.step"
 		(offset
 			(xyz 0 0 0)
 		)

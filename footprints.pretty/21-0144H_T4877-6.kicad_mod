@@ -2877,7 +2877,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "f13db837-7c16-4524-95cf-5dc04d51e1c0")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/21-0144H_T4877-6.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/21-0144H_T4877-6.step"
 		(offset
 			(xyz 0 0 0)
 		)

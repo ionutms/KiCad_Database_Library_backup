@@ -700,7 +700,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "30e4b28a-d298-4b0a-8250-c0e96d0008a8")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/SOP8_200MIL_MAC.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/SOP8_200MIL_MAC.step"
 		(offset
 			(xyz 0 0 0)
 		)
