@@ -193,6 +193,18 @@
 			)
 			(polyline
 				(pts
+					(xy -2.032 -2.032) (xy -2.032 0) (xy -2.54 0)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
 					(xy -0.508 1.27) (xy 0.508 0.762) (xy 0.508 1.778) (xy -0.508 1.27)
 				)
 				(stroke
@@ -217,7 +229,7 @@
 			)
 			(polyline
 				(pts
-					(xy -2.032 -2.032) (xy -2.032 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
+					(xy -5.08 1.27) (xy -5.08 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0.2032)
@@ -310,7 +322,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -5.08 0 0)
+				(at -7.62 1.27 0)
 				(length 2.54)
 				(name "D"
 					(effects
