@@ -6031,8 +6031,8 @@
 		)
 		(symbol "MAX32650GCE+_1_1"
 			(rectangle
-				(start -30.48 86.36)
-				(end 30.48 -81.28)
+				(start -30.48 88.9)
+				(end 30.48 -83.82)
 				(stroke
 					(width 0)
 					(type default)
@@ -6174,7 +6174,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -25.4 -86.36 90)
+				(at -25.4 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -6228,7 +6228,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -27.94 -86.36 90)
+				(at -27.94 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -6264,7 +6264,7 @@
 				)
 			)
 			(pin power_out line
-				(at 25.4 -86.36 90)
+				(at 25.4 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -6301,7 +6301,7 @@
 				(alternate "TCK (SWDCLK)" bidirectional line)
 			)
 			(pin unspecified line
-				(at 22.86 91.44 270)
+				(at 2.54 93.98 270)
 				(length 5.08)
 				(name "VRTC"
 					(effects
@@ -6455,7 +6455,7 @@
 				(alternate "SPI1_MOSI" bidirectional line)
 			)
 			(pin power_out line
-				(at 2.54 -86.36 90)
+				(at 2.54 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -6611,7 +6611,7 @@
 				(alternate "SPI2_SS0 (I2S_LRCLK)" bidirectional line)
 			)
 			(pin power_in line
-				(at -22.86 91.44 270)
+				(at -20.32 93.98 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -6649,7 +6649,7 @@
 				(alternate "SPI2_SS3" bidirectional line)
 			)
 			(pin power_in line
-				(at -10.16 91.44 270)
+				(at 27.94 93.98 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -6822,7 +6822,7 @@
 				(alternate "PT12" bidirectional line)
 			)
 			(pin power_out line
-				(at 0 -86.36 90)
+				(at 0 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -6898,7 +6898,7 @@
 				(alternate "PT14" bidirectional line)
 			)
 			(pin unspecified line
-				(at 12.7 91.44 270)
+				(at -5.08 93.98 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -7071,7 +7071,7 @@
 				(alternate "SPIXF_SDIO0" bidirectional line)
 			)
 			(pin power_in line
-				(at -5.08 91.44 270)
+				(at 22.86 93.98 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -7148,7 +7148,7 @@
 				(alternate "I2C1_SCL" bidirectional line)
 			)
 			(pin power_in line
-				(at -15.24 91.44 270)
+				(at -27.94 93.98 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7264,7 +7264,7 @@
 				(alternate "SPI3_SS2" bidirectional line)
 			)
 			(pin power_out line
-				(at 22.86 -86.36 90)
+				(at 22.86 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -7302,7 +7302,7 @@
 				(alternate "SPI3_SDIO3" bidirectional line)
 			)
 			(pin power_out line
-				(at 20.32 -86.36 90)
+				(at 20.32 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -7399,7 +7399,7 @@
 				(alternate "SPI3_SS3" bidirectional line)
 			)
 			(pin power_in line
-				(at -17.78 91.44 270)
+				(at -25.4 93.98 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7695,7 +7695,7 @@
 				(alternate "UART2_RTS" bidirectional line)
 			)
 			(pin power_out line
-				(at 17.78 -86.36 90)
+				(at 17.78 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -7753,7 +7753,7 @@
 				(alternate "SDHC_DAT1" bidirectional line)
 			)
 			(pin power_in line
-				(at 15.24 91.44 270)
+				(at -7.62 93.98 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -7851,7 +7851,7 @@
 				(alternate "SPIXR_SDIO1" bidirectional line)
 			)
 			(pin power_in line
-				(at -7.62 91.44 270)
+				(at 25.4 93.98 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -7869,7 +7869,7 @@
 				)
 			)
 			(pin power_in line
-				(at -20.32 91.44 270)
+				(at -22.86 93.98 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7986,7 +7986,7 @@
 				(alternate "SPIXR_SDIO3" bidirectional line)
 			)
 			(pin power_out line
-				(at 15.24 -86.36 90)
+				(at 15.24 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -8258,7 +8258,7 @@
 				(alternate "SPI1_SS1" bidirectional line)
 			)
 			(pin no_connect line
-				(at -10.16 -86.36 90)
+				(at -10.16 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8276,7 +8276,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -86.36 90)
+				(at -12.7 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8312,7 +8312,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 91.44 270)
+				(at -15.24 93.98 270)
 				(length 5.08)
 				(name "VDDB"
 					(effects
@@ -8330,7 +8330,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -15.24 -86.36 90)
+				(at -15.24 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8366,7 +8366,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -17.78 -86.36 90)
+				(at -17.78 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8403,7 +8403,7 @@
 				(alternate "SPIXR_SS0" bidirectional line)
 			)
 			(pin power_out line
-				(at 12.7 -86.36 90)
+				(at 12.7 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -8421,7 +8421,7 @@
 				)
 			)
 			(pin power_out line
-				(at 10.16 -86.36 90)
+				(at 10.16 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -8439,7 +8439,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -20.32 -86.36 90)
+				(at -20.32 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8475,7 +8475,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -22.86 -86.36 90)
+				(at -22.86 -88.9 90)
 				(length 5.08)
 				(name "NC"
 					(effects
@@ -8493,7 +8493,7 @@
 				)
 			)
 			(pin power_out line
-				(at 7.62 -86.36 90)
+				(at 7.62 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -8511,7 +8511,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -6.35 -86.36 90)
+				(at -6.35 -88.9 90)
 				(length 5.08)
 				(name "DNC"
 					(effects
@@ -8529,7 +8529,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -3.81 -86.36 90)
+				(at -3.81 -88.9 90)
 				(length 5.08)
 				(name "DNC"
 					(effects
@@ -8547,7 +8547,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 91.44 270)
+				(at -2.54 93.98 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -8565,7 +8565,7 @@
 				)
 			)
 			(pin power_out line
-				(at 5.08 -86.36 90)
+				(at 5.08 -88.9 90)
 				(length 5.08)
 				(name "VSS"
 					(effects
@@ -8583,7 +8583,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 91.44 270)
+				(at 20.32 93.98 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -8755,7 +8755,7 @@
 				(alternate "TMR0" bidirectional line)
 			)
 			(pin power_out line
-				(at 27.94 -86.36 90)
+				(at 27.94 -88.9 90)
 				(length 5.08)
 				(name "VSSA"
 					(effects
@@ -8773,7 +8773,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 91.44 270)
+				(at -12.7 93.98 270)
 				(length 5.08)
 				(name "VDDA"
 					(effects
