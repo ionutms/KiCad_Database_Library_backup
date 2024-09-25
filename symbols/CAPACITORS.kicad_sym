@@ -28,12 +28,14 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 0.9652 -3.81 0)
+		(property "Footprint" "footprints:C_0402_1005Metric"
+			(at 1.016 -15.24 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
