@@ -12,7 +12,6 @@
 		(on_board yes)
 		(property "Reference" "R"
 			(at 2.54 1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20,9 +19,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" " 10 kOhms"
+		(property "Value" "10 kOhms"
 			(at 2.54 -1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)

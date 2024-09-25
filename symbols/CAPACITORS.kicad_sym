@@ -12,7 +12,6 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 2.54 1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22,7 +21,6 @@
 		)
 		(property "Value" "0.1uF"
 			(at 2.54 -1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -178,7 +176,6 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 2.54 1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -188,7 +185,6 @@
 		)
 		(property "Value" "0.01uF"
 			(at 2.54 -1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -344,7 +340,6 @@
 		(on_board yes)
 		(property "Reference" "C"
 			(at 2.54 1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -354,7 +349,6 @@
 		)
 		(property "Value" "1uF"
 			(at 2.54 -1.27 0)
-			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
