@@ -11,45 +11,77 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "R"
-			(at 2.54 0 90)
+			(at 2.54 1.27 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" " 10 kOhms"
-			(at -2.54 0 90)
+			(at 2.54 -1.27 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "footprints:R_0402_1005Metric"
-			(at 1.016 -0.254 90)
+			(at 2.54 -8.89 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 2.54 -3.81 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD 0402 10Kohms 1% AEC-Q200"
-			(at 0 0 0)
+			(at 2.54 -6.35 0)
+			(show_name)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2RKF1002X"
+			(at 2.54 -11.43 0)
+			(show_name)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50 V"
+			(at 2.54 -13.97 0)
+			(show_name)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
