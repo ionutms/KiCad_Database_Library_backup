@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "GCM155R71H104KE02D"
+	(symbol "C_000001"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0.254)
@@ -103,7 +103,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "GCM155R71H104KE02D_0_1"
+		(symbol "C_000001_0_1"
 			(polyline
 				(pts
 					(xy -2.032 -0.762) (xy 2.032 -0.762)
@@ -129,7 +129,7 @@
 				)
 			)
 		)
-		(symbol "GCM155R71H104KE02D_1_1"
+		(symbol "C_000001_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 2.794)

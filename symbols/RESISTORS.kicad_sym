@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "ERJ-2RKF1002X"
+	(symbol "R_000001"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0)
@@ -103,7 +103,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "ERJ-2RKF1002X_0_1"
+		(symbol "R_000001_0_1"
 			(polyline
 				(pts
 					(xy 0 -2.286) (xy 0 -2.54)
@@ -165,7 +165,7 @@
 				)
 			)
 		)
-		(symbol "ERJ-2RKF1002X_1_1"
+		(symbol "R_000001_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 1.27)
