@@ -92,7 +92,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -15.24 90)
+				(at -5.08 -13.97 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -146,7 +146,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 15.24 270)
+				(at -5.08 13.97 270)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -166,8 +166,8 @@
 		)
 		(symbol "MX25U6432FM2I02_1_1"
 			(rectangle
-				(start -7.62 12.7)
-				(end 7.62 -12.7)
+				(start -7.62 11.43)
+				(end 7.62 -11.43)
 				(stroke
 					(width 0)
 					(type default)
