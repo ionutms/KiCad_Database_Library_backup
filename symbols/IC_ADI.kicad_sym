@@ -3004,7 +3004,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -8.636 13.97 0)
+			(at -8.636 15.24 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3012,7 +3012,7 @@
 			)
 		)
 		(property "Value" "ADT75BRMZ"
-			(at -7.366 11.176 0)
+			(at -7.366 12.446 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3020,7 +3020,7 @@
 			)
 		)
 		(property "Footprint" "footprints:RM_8_ADI"
-			(at -9.906 -11.176 0)
+			(at 0 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3030,7 +3030,7 @@
 			)
 		)
 		(property "Datasheet" "ADT75BRMZ"
-			(at -7.62 -13.97 0)
+			(at 0 -13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3040,7 +3040,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -7.62 6.35 0)
+			(at -7.62 7.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,7 +3068,7 @@
 		)
 		(symbol "ADT75BRMZ_0_1"
 			(pin bidirectional line
-				(at -7.62 6.35 0)
+				(at -7.62 7.62 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -3086,7 +3086,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 1.27 0)
+				(at -7.62 2.54 0)
 				(length 2.54)
 				(name "OS/ALERT"
 					(effects
@@ -3104,7 +3104,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 -11.43 90)
+				(at -7.62 -7.62 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3122,7 +3122,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -6.35 0)
+				(at -7.62 -5.08 0)
 				(length 2.54)
 				(name "A2"
 					(effects
@@ -3140,7 +3140,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -3.81 0)
+				(at -7.62 -2.54 0)
 				(length 2.54)
 				(name "A1"
 					(effects
@@ -3158,7 +3158,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -1.27 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "A0"
 					(effects
@@ -3176,7 +3176,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 11.43 270)
+				(at 2.54 12.7 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -3196,8 +3196,8 @@
 		)
 		(symbol "ADT75BRMZ_1_1"
 			(rectangle
-				(start -5.08 8.89)
-				(end 5.08 -8.89)
+				(start -5.08 10.16)
+				(end 5.08 -10.16)
 				(stroke
 					(width 0)
 					(type default)
@@ -3207,7 +3207,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 3.81 0)
+				(at -7.62 5.08 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
