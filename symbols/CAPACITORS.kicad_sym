@@ -520,7 +520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints:C_0603"
+		(property "Footprint" "footprints:C_0603_1005Metric"
 			(at 2.54 -8.89 0)
 			(show_name)
 			(effects
