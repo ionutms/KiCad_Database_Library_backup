@@ -19,7 +19,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 kOhms"
+		(property "Value" "10k"
 			(at 2.54 -1.27 0)
 			(effects
 				(font
