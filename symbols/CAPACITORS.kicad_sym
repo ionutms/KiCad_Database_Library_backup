@@ -1056,7 +1056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating DC" "50 VDC"
+		(property "Voltage Rating DC" "100 VDC"
 			(at 2.54 -13.97 0)
 			(show_name)
 			(effects
