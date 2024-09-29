@@ -9,7 +9,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "XTAL"
+		(property "Reference" "Y"
 			(at 0 8.89 0)
 			(effects
 				(font
@@ -23,6 +23,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:SO4_FA-128_2p0x1p6_SEC"
