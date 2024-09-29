@@ -1291,7 +1291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ADIN1110CCPZ"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adin1110.pdf"
 			(at -33.782 32.512 0)
 			(effects
 				(font
