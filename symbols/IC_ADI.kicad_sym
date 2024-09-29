@@ -1361,7 +1361,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -15.24 -27.94 90)
+				(at -17.78 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1379,7 +1379,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -27.94 90)
+				(at -15.24 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1505,7 +1505,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 10.16 -27.94 90)
+				(at 7.62 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1523,7 +1523,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 12.7 -27.94 90)
+				(at 10.16 -27.94 90)
 				(length 2.54)
 				(name "CEXT_2"
 					(effects
@@ -1559,7 +1559,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 -27.94 90)
+				(at 15.24 -27.94 90)
 				(length 2.54)
 				(name "CEXT_3"
 					(effects
@@ -1577,7 +1577,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 20.32 -27.94 90)
+				(at 17.78 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1667,7 +1667,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -12.7 180)
+				(at 27.94 -17.78 180)
 				(length 2.54)
 				(name "TEST1"
 					(effects
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -15.24 180)
+				(at 27.94 -20.32 180)
 				(length 2.54)
 				(name "TEST2"
 					(effects
@@ -1703,7 +1703,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 -27.94 90)
+				(at -12.7 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1793,7 +1793,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -7.62 -27.94 90)
+				(at -10.16 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1829,7 +1829,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 -27.94 90)
+				(at -7.62 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1865,7 +1865,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -2.54 -27.94 90)
+				(at -5.08 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1919,7 +1919,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 0 -27.94 90)
+				(at -2.54 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1973,7 +1973,7 @@
 				)
 			)
 			(pin power_out line
-				(at 5.08 -27.94 90)
+				(at 2.54 -27.94 90)
 				(length 2.54)
 				(name "EPAD"
 					(effects
