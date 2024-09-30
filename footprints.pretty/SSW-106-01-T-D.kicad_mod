@@ -1,4 +1,4 @@
-(footprint "PinSocket_2x06_P2.54mm_Vertical"
+(footprint "SSW-106-01-T-D"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "PinSocket_2x06_P2.54mm_Vertical"
+	(property "Value" "SSW-106-01-T-D"
 		(at -1.27 15.47 0)
 		(layer "F.Fab")
 		(uuid "0e5e1ba3-a03e-4d12-b7b6-4e24201ac222")
@@ -238,7 +238,7 @@
 		(uuid "3a1bd194-eefe-4cc0-aaaa-dc04bd262f60")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -1.27 6.35 90)
+		(at -1.524 17.4752 180)
 		(layer "F.Fab")
 		(uuid "aba5911c-edbd-4af2-aa42-bf518227ef2f")
 		(effects
@@ -344,15 +344,15 @@
 		(remove_unused_layers no)
 		(uuid "6104ac55-e3d0-4eeb-a555-0db0ed60e197")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x06_P2.54mm_Vertical.wrl"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/SSW-106-01-T-D.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz -1.27 -6.35 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 0 90)
 		)
 	)
 )
