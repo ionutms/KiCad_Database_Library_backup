@@ -4461,7 +4461,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -22.86 180)
+				(at 17.78 -30.48 180)
 				(length 2.54)
 				(name "DOI1"
 					(effects
@@ -4479,7 +4479,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -20.32 180)
+				(at 17.78 -27.94 180)
 				(length 2.54)
 				(name "DOI1"
 					(effects
@@ -4497,7 +4497,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -15.24 180)
+				(at 17.78 -22.86 180)
 				(length 2.54)
 				(name "VDD1"
 					(effects
@@ -4515,7 +4515,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -17.78 180)
+				(at 17.78 -25.4 180)
 				(length 2.54)
 				(name "G1"
 					(effects
@@ -4533,7 +4533,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -5.08 180)
+				(at 17.78 -7.62 180)
 				(length 2.54)
 				(name "G2"
 					(effects
@@ -4569,7 +4569,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -2.54 180)
+				(at 17.78 -5.08 180)
 				(length 2.54)
 				(name "VDD2"
 					(effects
@@ -4587,7 +4587,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -10.16 180)
+				(at 17.78 -12.7 180)
 				(length 2.54)
 				(name "DOI2"
 					(effects
@@ -4605,7 +4605,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -7.62 180)
+				(at 17.78 -10.16 180)
 				(length 2.54)
 				(name "DOI2"
 					(effects
@@ -4749,7 +4749,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 33.02 180)
+				(at 17.78 35.56 180)
 				(length 2.54)
 				(name "~{VDDOK}"
 					(effects
@@ -4929,7 +4929,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 2.54 180)
+				(at 17.78 5.08 180)
 				(length 2.54)
 				(name "DOI3"
 					(effects
@@ -4965,7 +4965,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 5.08 180)
+				(at 17.78 7.62 180)
 				(length 2.54)
 				(name "DOI3"
 					(effects
@@ -4983,7 +4983,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 10.16 180)
+				(at 17.78 12.7 180)
 				(length 2.54)
 				(name "VDD3"
 					(effects
@@ -5001,7 +5001,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 7.62 180)
+				(at 17.78 10.16 180)
 				(length 2.54)
 				(name "G3"
 					(effects
@@ -5019,7 +5019,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 20.32 180)
+				(at 17.78 27.94 180)
 				(length 2.54)
 				(name "G4"
 					(effects
@@ -5037,7 +5037,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 22.86 180)
+				(at 17.78 30.48 180)
 				(length 2.54)
 				(name "VDD4"
 					(effects
@@ -5055,7 +5055,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 15.24 180)
+				(at 17.78 22.86 180)
 				(length 2.54)
 				(name "DOI4"
 					(effects
@@ -5073,7 +5073,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 17.78 180)
+				(at 17.78 25.4 180)
 				(length 2.54)
 				(name "DOI4"
 					(effects
