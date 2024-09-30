@@ -26,7 +26,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SOT95P240X110-3N"
+		(property "Footprint" "footprints:SOT-23-3"
 			(at 0.254 -9.652 0)
 			(effects
 				(font
