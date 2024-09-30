@@ -660,6 +660,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:Vishay_PowerPAK_1212-8_Single"
