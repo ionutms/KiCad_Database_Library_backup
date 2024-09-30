@@ -24,7 +24,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:PinSocket_2x06_P2.54mm_Vertical"
+		(property "Footprint" "footprints:SSW-106-01-T-D"
 			(at 0 1.27 0)
 			(effects
 				(font
