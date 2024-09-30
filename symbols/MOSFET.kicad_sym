@@ -795,60 +795,6 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at -7.62 -1.27 0)
-				(length 2.54)
-				(name "D"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -3.81 0)
-				(length 2.54)
-				(name "D"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -6.35 0)
-				(length 2.54)
-				(name "D"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "SI7309DN-T1-E3_1_1"
 			(circle
@@ -924,7 +870,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -2.032) (xy 0 0) (xy 2.54 0) (xy 2.032 0) (xy 2.032 -2.032)
+					(xy -5.08 1.27) (xy -5.08 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
 				)
 				(stroke
 					(width 0.2032)
@@ -936,7 +882,7 @@
 			)
 			(polyline
 				(pts
-					(xy -5.08 1.27) (xy -5.08 -6.35) (xy -5.08 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
+					(xy 0 -2.032) (xy 0 0) (xy 2.54 0) (xy 2.032 0) (xy 2.032 -2.032)
 				)
 				(stroke
 					(width 0.2032)
