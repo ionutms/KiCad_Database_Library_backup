@@ -46,7 +46,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 21.59 43.18 0)
+			(at 20.32 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,7 +74,7 @@
 		)
 		(symbol "AD74413RBCPZ_0_1"
 			(pin unspecified line
-				(at 21.59 43.18 180)
+				(at 20.32 43.18 180)
 				(length 2.54)
 				(name "SENSEH_A"
 					(effects
@@ -92,7 +92,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 48.26 0)
+				(at -20.32 40.64 0)
 				(length 2.54)
 				(name "ALDO1V8"
 					(effects
@@ -110,7 +110,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 7.62 180)
+				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VIOUTN_B"
 					(effects
@@ -128,7 +128,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 10.16 180)
+				(at 20.32 10.16 180)
 				(length 2.54)
 				(name "VIOUTP_B"
 					(effects
@@ -146,7 +146,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 12.7 180)
+				(at 20.32 12.7 180)
 				(length 2.54)
 				(name "SENSELF_B"
 					(effects
@@ -164,7 +164,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 15.24 180)
+				(at 20.32 15.24 180)
 				(length 2.54)
 				(name "SENSEL_B"
 					(effects
@@ -182,7 +182,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 17.78 180)
+				(at 20.32 17.78 180)
 				(length 2.54)
 				(name "SENSEHF_B"
 					(effects
@@ -200,7 +200,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 20.32 180)
+				(at 20.32 20.32 180)
 				(length 2.54)
 				(name "SENSEH_B"
 					(effects
@@ -218,7 +218,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 2.54 180)
+				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "CASCODE_B"
 					(effects
@@ -236,7 +236,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 5.08 180)
+				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "CCOMP_B"
 					(effects
@@ -254,7 +254,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -2.54 0)
+				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "GPO_A"
 					(effects
@@ -272,7 +272,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 40.64 180)
+				(at 20.32 40.64 180)
 				(length 2.54)
 				(name "SENSEHF_A"
 					(effects
@@ -290,7 +290,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -5.08 0)
+				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "GPO_B"
 					(effects
@@ -308,7 +308,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -7.62 0)
+				(at -20.32 -7.62 0)
 				(length 2.54)
 				(name "GPO_C"
 					(effects
@@ -326,7 +326,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -10.16 0)
+				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "GPO_D"
 					(effects
@@ -344,7 +344,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 60.96 270)
+				(at -2.54 53.34 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -362,7 +362,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -21.59 -33.02 0)
+				(at -20.32 -27.94 0)
 				(length 2.54)
 				(name "CPUMP_P"
 					(effects
@@ -380,7 +380,7 @@
 				)
 			)
 			(pin power_out line
-				(at -11.43 -60.96 90)
+				(at -7.62 -53.34 90)
 				(length 2.54)
 				(name "DGND"
 					(effects
@@ -398,7 +398,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -21.59 -35.56 0)
+				(at -20.32 -30.48 0)
 				(length 2.54)
 				(name "CPUMP_N"
 					(effects
@@ -416,7 +416,7 @@
 				)
 			)
 			(pin power_out line
-				(at 10.16 60.96 270)
+				(at 10.16 53.34 270)
 				(length 2.54)
 				(name "AVSS"
 					(effects
@@ -434,7 +434,7 @@
 				)
 			)
 			(pin power_out line
-				(at 1.27 -60.96 90)
+				(at 2.54 -53.34 90)
 				(length 2.54)
 				(name "AGND3"
 					(effects
@@ -452,7 +452,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 -40.64 0)
+				(at -20.32 -35.56 0)
 				(length 2.54)
 				(name "REFIN"
 					(effects
@@ -470,7 +470,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 38.1 180)
+				(at 20.32 38.1 180)
 				(length 2.54)
 				(name "SENSEL_A"
 					(effects
@@ -488,7 +488,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -43.18 0)
+				(at -20.32 -38.1 0)
 				(length 2.54)
 				(name "REFOUT"
 					(effects
@@ -506,7 +506,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -17.78 180)
+				(at 20.32 -17.78 180)
 				(length 2.54)
 				(name "CCOMP_C"
 					(effects
@@ -524,7 +524,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -20.32 180)
+				(at 20.32 -20.32 180)
 				(length 2.54)
 				(name "CASCODE_C"
 					(effects
@@ -542,7 +542,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -2.54 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "SENSEH_C"
 					(effects
@@ -560,7 +560,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -5.08 180)
+				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "SENSEHF_C"
 					(effects
@@ -578,7 +578,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -7.62 180)
+				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name "SENSEL_C"
 					(effects
@@ -596,7 +596,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -10.16 180)
+				(at 20.32 -10.16 180)
 				(length 2.54)
 				(name "SENSELF_C"
 					(effects
@@ -614,7 +614,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -12.7 180)
+				(at 20.32 -12.7 180)
 				(length 2.54)
 				(name "VIOUTP_C"
 					(effects
@@ -632,7 +632,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -15.24 180)
+				(at 20.32 -15.24 180)
 				(length 2.54)
 				(name "VIOUTN_C"
 					(effects
@@ -650,7 +650,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 -48.26 0)
+				(at -20.32 -43.18 0)
 				(length 2.54)
 				(name "LVIN"
 					(effects
@@ -668,7 +668,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 35.56 180)
+				(at 20.32 35.56 180)
 				(length 2.54)
 				(name "SENSELF_A"
 					(effects
@@ -686,7 +686,7 @@
 				)
 			)
 			(pin power_out line
-				(at -1.27 -60.96 90)
+				(at 0 -53.34 90)
 				(length 2.54)
 				(name "AGND2"
 					(effects
@@ -704,7 +704,7 @@
 				)
 			)
 			(pin power_out line
-				(at 3.81 -60.96 90)
+				(at 5.08 -53.34 90)
 				(length 2.54)
 				(name "AGND_SENSE"
 					(effects
@@ -722,7 +722,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 60.96 270)
+				(at 5.08 53.34 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -740,7 +740,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -38.1 180)
+				(at 20.32 -38.1 180)
 				(length 2.54)
 				(name "VIOUTN_D"
 					(effects
@@ -758,7 +758,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -35.56 180)
+				(at 20.32 -35.56 180)
 				(length 2.54)
 				(name "VIOUTP_D"
 					(effects
@@ -776,7 +776,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -33.02 180)
+				(at 20.32 -33.02 180)
 				(length 2.54)
 				(name "SENSELF_D"
 					(effects
@@ -794,7 +794,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -30.48 180)
+				(at 20.32 -30.48 180)
 				(length 2.54)
 				(name "SENSEL_D"
 					(effects
@@ -812,7 +812,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -27.94 180)
+				(at 20.32 -27.94 180)
 				(length 2.54)
 				(name "SENSEHF_D"
 					(effects
@@ -830,7 +830,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -25.4 180)
+				(at 20.32 -25.4 180)
 				(length 2.54)
 				(name "SENSEH_D"
 					(effects
@@ -848,7 +848,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -43.18 180)
+				(at 20.32 -43.18 180)
 				(length 2.54)
 				(name "CASCODE_D"
 					(effects
@@ -866,7 +866,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 33.02 180)
+				(at 20.32 33.02 180)
 				(length 2.54)
 				(name "VIOUTP_A"
 					(effects
@@ -884,7 +884,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 -40.64 180)
+				(at 20.32 -40.64 180)
 				(length 2.54)
 				(name "CCOMP_D"
 					(effects
@@ -902,7 +902,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 2.54 0)
+				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "SDO"
 					(effects
@@ -920,7 +920,7 @@
 				)
 			)
 			(pin power_out line
-				(at -8.89 -60.96 90)
+				(at -5.08 -53.34 90)
 				(length 2.54)
 				(name "DGND"
 					(effects
@@ -938,7 +938,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 60.96 270)
+				(at -10.16 53.34 270)
 				(length 2.54)
 				(name "IOVDD"
 					(effects
@@ -956,7 +956,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 60.96 270)
+				(at -5.08 53.34 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -974,7 +974,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 45.72 0)
+				(at -20.32 38.1 0)
 				(length 2.54)
 				(name "DLDO1V8"
 					(effects
@@ -992,7 +992,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -21.59 7.62 0)
+				(at -20.32 12.7 0)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -1010,7 +1010,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 30.48 180)
+				(at 20.32 30.48 180)
 				(length 2.54)
 				(name "VIOUTN_A"
 					(effects
@@ -1028,7 +1028,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 10.16 0)
+				(at -20.32 15.24 0)
 				(length 2.54)
 				(name "SDI"
 					(effects
@@ -1046,7 +1046,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 27.94 180)
+				(at 20.32 27.94 180)
 				(length 2.54)
 				(name "CCOMP_A"
 					(effects
@@ -1064,7 +1064,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 21.59 25.4 180)
+				(at 20.32 25.4 180)
 				(length 2.54)
 				(name "CASCODE_A"
 					(effects
@@ -1082,7 +1082,7 @@
 				)
 			)
 			(pin power_out line
-				(at 8.89 -60.96 90)
+				(at 7.62 -53.34 90)
 				(length 2.54)
 				(name "AVSS"
 					(effects
@@ -1100,7 +1100,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 60.96 270)
+				(at 2.54 53.34 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -1118,7 +1118,7 @@
 				)
 			)
 			(pin power_out line
-				(at -3.81 -60.96 90)
+				(at -2.54 -53.34 90)
 				(length 2.54)
 				(name "AGND1"
 					(effects
@@ -1136,7 +1136,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 50.8 0)
+				(at -20.32 43.18 0)
 				(length 2.54)
 				(name "ALDO5V"
 					(effects
@@ -1156,8 +1156,8 @@
 		)
 		(symbol "AD74413RBCPZ_1_1"
 			(rectangle
-				(start -19.05 58.42)
-				(end 19.05 -58.42)
+				(start -17.78 50.8)
+				(end 17.78 -50.8)
 				(stroke
 					(width 0)
 					(type default)
@@ -1167,7 +1167,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 50.8 180)
+				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "~{ADC_RDY}"
 					(effects
@@ -1185,7 +1185,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 48.26 180)
+				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "~{ALERT}"
 					(effects
@@ -1203,7 +1203,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 5.08 0)
+				(at -20.32 10.16 0)
 				(length 2.54)
 				(name "~{LDAC}"
 					(effects
@@ -1221,7 +1221,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 12.7 0)
+				(at -20.32 17.78 0)
 				(length 2.54)
 				(name "~{SYNC}"
 					(effects
@@ -1239,7 +1239,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 15.24 0)
+				(at -20.32 20.32 0)
 				(length 2.54)
 				(name "~{RESET}"
 					(effects
