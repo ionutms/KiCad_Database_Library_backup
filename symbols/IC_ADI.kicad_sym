@@ -4371,7 +4371,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -17.78 0)
+				(at 5.08 43.18 270)
 				(length 2.54)
 				(name "VLED"
 					(effects
@@ -4713,7 +4713,7 @@
 				)
 			)
 			(pin input line
-				(at 5.08 43.18 270)
+				(at 2.54 43.18 270)
 				(length 2.54)
 				(name "REGEN"
 					(effects
