@@ -4278,7 +4278,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 15.24 45.72 0)
+			(at 23.368 45.974 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4286,7 +4286,7 @@
 			)
 		)
 		(property "Value" "MAX14906ATM+"
-			(at 15.24 43.18 0)
+			(at 24.13 42.926 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4371,7 +4371,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 43.18 270)
+				(at 7.62 43.18 270)
 				(length 2.54)
 				(name "VLED"
 					(effects
@@ -4389,7 +4389,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 43.18 270)
+				(at -5.08 43.18 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -4659,7 +4659,7 @@
 				)
 			)
 			(pin input line
-				(at -5.08 43.18 270)
+				(at -12.7 43.18 270)
 				(length 2.54)
 				(name "VL"
 					(effects
@@ -4713,7 +4713,7 @@
 				)
 			)
 			(pin input line
-				(at 2.54 43.18 270)
+				(at 5.08 43.18 270)
 				(length 2.54)
 				(name "REGEN"
 					(effects
@@ -4749,7 +4749,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 38.1 0)
+				(at 0 43.18 270)
 				(length 2.54)
 				(name "~{VDDOK}"
 					(effects
@@ -4785,7 +4785,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 43.18 270)
+				(at -10.16 43.18 270)
 				(length 2.54)
 				(name "V5"
 					(effects
