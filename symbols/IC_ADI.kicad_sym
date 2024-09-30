@@ -4425,7 +4425,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -10.16 0)
+				(at -17.78 -15.24 0)
 				(length 2.54)
 				(name "D1"
 					(effects
@@ -4641,7 +4641,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -7.62 0)
+				(at -17.78 -12.7 0)
 				(length 2.54)
 				(name "D2"
 					(effects
@@ -4677,7 +4677,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "~{READY}"
 					(effects
@@ -4695,7 +4695,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 5.08 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -4731,7 +4731,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 7.62 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name "~{FAULT}"
 					(effects
@@ -4803,7 +4803,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 22.86 0)
+				(at -17.78 17.78 0)
 				(length 2.54)
 				(name "SDO"
 					(effects
@@ -4821,7 +4821,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 20.32 0)
+				(at -17.78 15.24 0)
 				(length 2.54)
 				(name "CLK"
 					(effects
@@ -4839,7 +4839,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 17.78 0)
+				(at -17.78 12.7 0)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -4857,7 +4857,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 15.24 0)
+				(at -17.78 10.16 0)
 				(length 2.54)
 				(name "SDI"
 					(effects
@@ -4875,7 +4875,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 10.16 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name "SYNCH"
 					(effects
@@ -4893,7 +4893,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -5.08 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name "D3"
 					(effects
@@ -5109,7 +5109,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -2.54 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name "D4"
 					(effects
