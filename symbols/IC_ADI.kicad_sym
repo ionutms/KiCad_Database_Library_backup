@@ -884,7 +884,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 58.42 270)
+				(at 5.08 58.42 270)
 				(length 2.54)
 				(name "DLDO1V8"
 					(effects
@@ -1010,7 +1010,7 @@
 				)
 			)
 			(pin output line
-				(at 5.08 58.42 270)
+				(at 10.16 58.42 270)
 				(length 2.54)
 				(name "ALDO5V"
 					(effects
