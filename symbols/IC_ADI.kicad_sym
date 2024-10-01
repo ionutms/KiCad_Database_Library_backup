@@ -92,7 +92,7 @@
 				)
 			)
 			(pin output line
-				(at -20.32 40.64 0)
+				(at 0 53.34 270)
 				(length 2.54)
 				(name "ALDO1V8"
 					(effects
@@ -344,7 +344,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 53.34 270)
+				(at -7.62 53.34 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -398,7 +398,7 @@
 				)
 			)
 			(pin power_out line
-				(at 10.16 53.34 270)
+				(at 15.24 53.34 270)
 				(length 2.54)
 				(name "AVSS"
 					(effects
@@ -650,7 +650,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 53.34 270)
+				(at 10.16 53.34 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -848,7 +848,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 53.34 270)
+				(at -15.24 53.34 270)
 				(length 2.54)
 				(name "IOVDD"
 					(effects
@@ -866,7 +866,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 53.34 270)
+				(at -10.16 53.34 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -884,7 +884,7 @@
 				)
 			)
 			(pin output line
-				(at -20.32 38.1 0)
+				(at 2.54 53.34 270)
 				(length 2.54)
 				(name "DLDO1V8"
 					(effects
@@ -992,7 +992,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 53.34 270)
+				(at 7.62 53.34 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -1010,7 +1010,7 @@
 				)
 			)
 			(pin output line
-				(at -20.32 43.18 0)
+				(at -2.54 53.34 270)
 				(length 2.54)
 				(name "ALDO5V"
 					(effects
