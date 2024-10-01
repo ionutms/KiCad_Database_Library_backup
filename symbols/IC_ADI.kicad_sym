@@ -92,7 +92,7 @@
 				)
 			)
 			(pin output line
-				(at 0 53.34 270)
+				(at 7.62 58.42 270)
 				(length 2.54)
 				(name "ALDO1V8"
 					(effects
@@ -344,7 +344,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 53.34 270)
+				(at -7.62 58.42 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -398,7 +398,7 @@
 				)
 			)
 			(pin power_out line
-				(at 15.24 53.34 270)
+				(at 15.24 58.42 270)
 				(length 2.54)
 				(name "AVSS"
 					(effects
@@ -650,7 +650,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 53.34 270)
+				(at 0 58.42 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -848,7 +848,7 @@
 				)
 			)
 			(pin power_in line
-				(at -15.24 53.34 270)
+				(at -15.24 58.42 270)
 				(length 2.54)
 				(name "IOVDD"
 					(effects
@@ -866,7 +866,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 53.34 270)
+				(at -10.16 58.42 270)
 				(length 2.54)
 				(name "DVCC"
 					(effects
@@ -884,7 +884,7 @@
 				)
 			)
 			(pin output line
-				(at 2.54 53.34 270)
+				(at 10.16 58.42 270)
 				(length 2.54)
 				(name "DLDO1V8"
 					(effects
@@ -992,7 +992,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 53.34 270)
+				(at -2.54 58.42 270)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -1010,7 +1010,7 @@
 				)
 			)
 			(pin output line
-				(at -2.54 53.34 270)
+				(at 5.08 58.42 270)
 				(length 2.54)
 				(name "ALDO5V"
 					(effects
@@ -1030,8 +1030,8 @@
 		)
 		(symbol "AD74413RBCPZ_1_1"
 			(rectangle
-				(start -17.78 50.8)
-				(end 17.78 -50.8)
+				(start -17.78 55.88)
+				(end 17.78 -55.88)
 				(stroke
 					(width 0)
 					(type default)
@@ -1041,7 +1041,7 @@
 				)
 			)
 			(pin power_out line
-				(at -7.62 -55.88 90)
+				(at -7.62 -60.96 90)
 				(length 5.08)
 				(name "DGND"
 					(effects
@@ -1059,7 +1059,7 @@
 				)
 			)
 			(pin power_out line
-				(at 2.54 -55.88 90)
+				(at 2.54 -60.96 90)
 				(length 5.08)
 				(name "AGND3"
 					(effects
@@ -1077,7 +1077,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -55.88 90)
+				(at 0 -60.96 90)
 				(length 5.08)
 				(name "AGND2"
 					(effects
@@ -1095,7 +1095,7 @@
 				)
 			)
 			(pin power_out line
-				(at 5.08 -55.88 90)
+				(at 5.08 -60.96 90)
 				(length 5.08)
 				(name "AGND_SENSE"
 					(effects
@@ -1149,7 +1149,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 -55.88 90)
+				(at -5.08 -60.96 90)
 				(length 5.08)
 				(name "DGND"
 					(effects
@@ -1221,7 +1221,7 @@
 				)
 			)
 			(pin power_out line
-				(at -2.54 -55.88 90)
+				(at -2.54 -60.96 90)
 				(length 5.08)
 				(name "AGND1"
 					(effects
@@ -1239,7 +1239,7 @@
 				)
 			)
 			(pin power_out line
-				(at 7.62 -55.88 90)
+				(at 7.62 -60.96 90)
 				(length 5.08)
 				(name "PAD"
 					(effects
